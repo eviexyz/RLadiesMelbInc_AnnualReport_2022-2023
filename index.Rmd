@@ -34,7 +34,7 @@ Firstly, a quick overview of who we are and where we are at!
 
 # R-Ladies Melbourne Inc: a bit about us
 
-R-Ladies Melbourne is one of the chapters of the worldwide R-Ladies community comprising 216 chapters, 100267 members, across 61 countries (as of today, [source](https://benubah.github.io/r-community-explorer/rladies.html)) and the first chapter established in Australia in 2016. In March 2020, R-Ladies Melbourne was incorporated as not-for-profit organization and we are now also known as R-Ladies Melbourne Inc! 
+R-Ladies Melbourne is one of the chapters of the worldwide R-Ladies community comprising 216 chapters, 100267 members, across 61 countries (as of today, [source](https://benubah.github.io/r-community-explorer/rladies.html)) and the first chapter established in Australia in 2016. In March 2020, R-Ladies Melbourne was incorporated as a not-for-profit organization and we are now also known as R-Ladies Melbourne Inc! 
 
 We are proud to have >2160 members in our [local Meetup community](https://www.meetup.com/en-AU/rladies-melbourne) and also a growing online community of [>1970 followers on Twitter](https://twitter.com/rladiesmelb). We are currently the [top 7th R-Ladies chapter](https://benubah.github.io/r-community-explorer/rladies.html) in terms of membership globally. 
 
@@ -45,10 +45,10 @@ In 2020 we had to pivot to a new way of working. In Australia, 2021 was still a 
 
 We had our virtual annual general meeting in May 2021 and selected the following new leadership members: 
 
-* Shazia Ruybal-Pesántez [President](https://twitter.com/DrShaziaRuybal)
-* Yuri Song [Vice-President]()
-* Sehrish Kanwal [Secretary](https://twitter.com/skanwal)
-* Nikki Rubinstein [Treasurer](https://twitter.com/nikkirubinstein)
+* Shazia Ruybal-Pesántez, [President](https://twitter.com/DrShaziaRuybal)
+* Yuri Song, [Vice-President]()
+* Sehrish Kanwal, [Secretary](https://twitter.com/skanwal)
+* Nikki Rubinstein, [Treasurer](https://twitter.com/nikkirubinstein)
 
 ```{r, echo=FALSE, fig.cap="AGM 2021",echo=FALSE, fig.align="center", out.width = '90%', fig.asp=0.4}
 img <- readPNG("./img/agm2021.png")
@@ -155,7 +155,7 @@ R-Ladies Melbourne has been such an amazing community to be part of. I joined th
 
 # Sponsors
 Undoubtedly, without our faithful sponsors, we would not be able to be where we are today. A great thanks to all of them for their support over years!
-```{r, echo=FALSE, fig.cap="Our Amazing sponsors and the stunning view from the venue provided by NOUS",echo=FALSE, fig.align="center", out.width = '90%', fig.asp = 0.7}
+```{r, echo=FALSE, fig.cap="Our amazing sponsors and the stunning view from the venue provided by Nous",echo=FALSE, fig.align="center", out.width = '60%', fig.asp = 0.7}
 img <- readPNG("./img/RLadies_Sponsors.png")
 grid.raster(img)
 ```
@@ -172,12 +172,13 @@ We are happy to have always received positive feedback from our speakers, commun
 
 Finally, do not forget to follow the R-Ladies Melbourne Inc if you would like to be updated about us and our events; we do our best to record our events, and make all of our events' materials available on Github.
 
+* [Website](https://rladiesmelbourne-inc.netlify.app)
 * [Meetup](https://www.meetup.com/R-Ladies-Melbourne/)
 * [Twitter](https://twitter.com/RLadiesMelb)
 * [Facebook](https://www.facebook.com/RladiesMelbourne/)
-* [Github](https://github.com/R-LadiesMelbourne)
-* [LinkedIN](https://www.linkedin.com/company/14675970/admin/)
+* [GitHub](https://github.com/R-LadiesMelbourne)
+* [LinkedIn](https://www.linkedin.com/company/14675970/admin/)
 * [YouTube](https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow/videos)
 
 # Acknowledgements
-I would like to thank all the past and present committee members for their support. 
+I would like to thank all the past and present committee members for their support and friendship. 
