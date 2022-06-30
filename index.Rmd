@@ -25,7 +25,7 @@ library(grid)
 # devtools::install_github("hadley/emo")
 # devtools::install_github("ropenscilabs/icon")
 library(emo)
-# library(icons)
+library(icons)
 library(tufte)
 ```
 
@@ -171,13 +171,13 @@ We are happy to have always received positive feedback from our speakers, commun
 
 Finally, do not forget to follow the R-Ladies Melbourne Inc if you would like to be updated about us and our events; we do our best to record our events, and make all of our events' materials available on Github.
 
-* [Website](https://rladiesmelbourne-inc.netlify.app)
-* [Meetup](https://www.meetup.com/R-Ladies-Melbourne/)
-* [Twitter](https://twitter.com/RLadiesMelb)
-* [Facebook](https://www.facebook.com/RladiesMelbourne/)
-* [GitHub](https://github.com/R-LadiesMelbourne)
-* [LinkedIn](https://www.linkedin.com/company/14675970/admin/)
-* [YouTube](https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow/videos)
+* `r icon::fa("globe",colour = "#88398A")` [Website](https://rladiesmelbourne-inc.netlify.app)
+* `r icon::fa("meetup",colour = "#88398A")` [Meetup](https://www.meetup.com/R-Ladies-Melbourne/)
+* `r icon::fa("twitter",colour = "#88398A")` [Twitter](https://twitter.com/RLadiesMelb)
+* `r icon::fa("facebook",colour = "#88398A")` [Facebook](https://www.facebook.com/RladiesMelbourne/)
+* `r icon::fa("github",colour = "#88398A")` [GitHub](https://github.com/R-LadiesMelbourne)
+* `r icon::fa("linkedin",colour = "#88398A")` [LinkedIn](https://www.linkedin.com/company/14675970/admin/)
+* `r icon::fa("youtube",colour = "#88398A")` [YouTube](https://www.youtube.com/channel/UClC5yNEjMoE3MmbK-mrV8Ow/videos)
 
 # Acknowledgements
 I would like to thank all the past and present committee members for their support and friendship. 
