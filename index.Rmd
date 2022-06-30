@@ -7,7 +7,6 @@ output:
     includes:
       after_body:
       - header.html
-      - footer.html
     theme: cosmo
     toc: yes
   word_document:
