@@ -144,7 +144,7 @@ Since 2019 we have hosted a workshop on "How to Become a Disease Detective" usin
 
 Some reflections from [Caitlin Bourke](https://twitter.com/bourke_cait) about the conference and her experience are below. 
 
-> _"Attending the it takes a spark conference in may this year was one of the highlights of my time on the committee this year. Shazia and I attended the conference with around 400 (maybe fact-check) high school students from across Victoria. We facilitated a workshop for 35 Years 8-10, introducing topics of epidemiology and using some basic r data wrangling and plotting functions to solve an outbreak of food poisoning. It was really quite inspiring how quickly the students took to learning the concepts and basic functionality of R and can only bode well for the future of stem and data science"_
+> _"Attending the It Takes a Spark Conference in May this year was one of the highlights of my time on the committee. Shazia and I attended the conference with around 500 high school students from across Victoria. We facilitated a workshop for 35 students in Years 8-10, introducing topics of epidemiology and using some basic `R` data wrangling and plotting functions to solve an outbreak of food poisoning. It was really quite inspiring how quickly the students took to learning the concepts and basic functionality of `R` and can only bode well for the future of STEM and data science"_
 >
 > `r tufte::quote_footer('-- Caitlin Bourke, R-Ladies Melbourne Inc Committee Member')`
 
