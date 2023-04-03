@@ -168,6 +168,13 @@ Amazing to have a room full of people again!
 
 Collaborative and supportive diverse members of the R community motivated me to join R-Ladies Melbourne in 2021. #rstats has been one of the most inclusive communities I wanted to be part of. I'm inspired by women and gender minorities who create amazing R content worldwide and proud to be part of the R-Ladies Melbourne team which is dedicated to creating a safe space for women and gender minorities. It has been a difficult year where we had movements in the committee and more responsibilities fell on to our committee members. We have persevered through the challenges and made it work. I am thankful for our committee who has put together amazing events. Excited to see what the new year will bring! 
 
+
+# A note from the treasurer 
+
+I joined the RLadies Melbourne organising committee in 2017 and have thoroughly enjoyed working with and learning from the amazing women on the committee. Through seminars, workshops, networking events, incorporation, lockdowns - it's been an amazing ride. I will be stepping down from the committee after this AGM, but will definitely continue to be a part of the RLadies community! I love being part of such an inviting and inclusive group. A huge thank you to the other committee members for their tireless efforts and for being wonderful people to work with 💜
+
+-- Nikki Rubinstein
+
 # Sponsors
 Undoubtedly, without our faithful sponsors, we would not be able to be where we are today. A great thanks to all of them for their support over years!
 ```{r, echo=FALSE, fig.cap="Our amazing sponsors and the stunning view from the venue provided by Nous",echo=FALSE, fig.align="center", out.width = '60%', fig.asp = 0.7}
